@@ -1,3 +1,2 @@
-![version](https://img.shields.io/badge/version-v3.9.0-blue)
-![release](https://img.shields.io/badge/release-v3.9.0-blue)
+![GitHub Release](https://img.shields.io/github/v/release/cwmkt/changelog)
 ![uptime](https://uptime.cwmkt.com.br/api/badge/115/uptime)
