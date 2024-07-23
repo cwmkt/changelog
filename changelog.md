@@ -1,9 +1,9 @@
-# Changelog - whitelabel v3.9.0
+
+## [v3.9.0] - 23-05-2024
 
 ### ✨ Novas funcionalidades (Added)
 
 - Excluir conta na plataforma agora também exclui a conexão da API.
-- Adicionado QRCODE em apenas um clique.
 - Adicionado botão de conversa única.
 - Adicionado botão para ativar grupos.
 - Adicionado botão para ativar agente.
@@ -18,7 +18,7 @@
 - Nova função de notificações na visualização da caixa de entrada.
 - SLA Reports fornecem uma visão geral da conformidade de suas equipes.
 - Versão meta disponível para alteração no painel Superadmin.
-
+- 
 ### 🚸 Ajustes e alterações (Changed)
 
 - Plataforma atualizada para a última versão.
@@ -30,7 +30,6 @@
 - Mensagens iniciadas com BOT agora têm cor diferente.
 - Atualização do conector para a última versão.
 - Servidores migrados para Hetzner retirados da Contabo.
-- Removido botões de conexão de qrcode do Canal API Oficial.
 
 ### 🐛 Correções (Fixed)
 
@@ -42,6 +41,7 @@
 - Corrigido fluxo OpenAI ChatBot.
 - Corrigido envio de arquivos Doc que chegavam como Zip.
 - API atualizada para a última versão.
+- Adicionado QRCODE em apenas um clique.
 - Corrigida a logo quebrada em PNG, agora só lê SVG.
 - Corrigido bug de tradução "Automações".
 - Corrigida tradução "Ordenar Por".
