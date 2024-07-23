@@ -1,0 +1,22 @@
+#Changelog - whitelabel v3.11.0
+
+### ✨ Novas funcionalidades (Added)
+
+- Liberado Função Gerar Tokets Typebot
+- Integração nativa com N8N Macros
+- Depois de Quantos X Minutos um Ticket Deve Resolver
+- Botão Habilitar/Desabilitar Typebot no Contato
+- Ajustado Login da API
+
+### 🚸 Ajustes e alterações (Changed)
+
+- Informações Url Inbox no Typebot
+- Midias Recebidas Typebot no meio do bot agora Continua Fluxo
+- Conversa iniciadas com midia, Fluxo continua
+- Melhorias na Central de Ajuda (suporte para quebras de linha, tabelas etc., na API)
+- Ajustado CSS do Botão Facebook
+- Backups Banco de Dados em 8 em 8 horas com Armazenamento 15 dias
+
+### 🐛 Correções (Fixed)
+
+- Finalizar Sessão Typebot Ajustado
