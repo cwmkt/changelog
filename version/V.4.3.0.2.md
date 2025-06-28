@@ -25,3 +25,4 @@
 - Novo Formato @lid Contatos Ajustado
 - API Oficial Retirado Nono Dígito
 
+⚠️ Aviso importante: Essa é a última versão com suporte pra UI v3. A partir da próxima, é tudo na nova interface v4! 🚀
