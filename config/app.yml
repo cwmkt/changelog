@@ -1,4 +1,5 @@
 shared: &shared
+
   version: 'v4.3.2'
 
 development:
