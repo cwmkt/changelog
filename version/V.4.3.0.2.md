@@ -1,4 +1,4 @@
-# Changelog - whitelabel v4.3.0.2
+# Changelog - Whitelabel v4.3.0.2
 
 ### ✨ Novas funcionalidades (Added)
 
