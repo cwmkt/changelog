@@ -1,0 +1,31 @@
+# Changelog - White Label v4.3.1.EB
+
+### ✨ Novas Funcionalidades (Added)
+
+- Tempo e duração de inatividade exibidos no captian (mensagem de resolução)
+- Campos adicionais para personalização de mensagens Asaas
+- Exportar contatos diretamente pelo dashboard (sem envio por e-mail)
+- Permissão para envio de PDF agendado
+- Campanhas para WhatsApp oficial
+- Embeddar WhatsApp oficial
+- Opção de ocultar a visualização da inbox (inbox-view)
+- Suporte a respostas rápidas com possibilidade de anexar mídias
+- Campo para apagar todos contatos
+- Botão para marcar todos os contatos da pagina ao encaminhar 
+- Opção para o Painel de Aplicativos aceitar Query
+- Criar Campo Novo WhatsApp no Cadastro de Usuario (Perfil)
+
+### 🚸 Ajustes e Alterações (Changed)
+
+- Botão de ligar/desligar o CSAT agora mais visível
+- Botões de reencaminhar redes sociais externas
+- Permissão para PNG logo
+- Mensagem de Sistema Opcional
+- Várias correções e melhorias nas traduções
+- Tradução correta Aceitar Ligação
+- Melhorias forma Captian processa as mensagens
+
+---
+
+⚠️ **Aviso de descontinuação:**  
+Esta é a **última versão não a mais suporte à interface de usuário v3**.  
