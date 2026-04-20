@@ -1,0 +1,68 @@
+# Changelog - White Label v4.13.0
+
+## ✨ Novas Funcionalidades (Added)
+
+- Canal TikTok  
+- Campanhas WhatsApp Oficial  
+- Suporte para ferramentas personalizadas Captain  
+- Página de monitoramento de integridade para canais do WhatsApp na nuvem  
+- Suporte à autenticação 2FA  
+- Adição de etiquetas como evento de ação para automação  
+- Suporte para modelos de mídia no WhatsApp  
+- Capacidade de sincronizar modelos do WhatsApp manualmente  
+- Suporte a regras de automação para o evento `conversation_resolved`  
+- Atribuição v2 ativada por padrão para novas contas  
+- Ferramentas personalizadas do Captain, exclusão em massa de documentos e melhorias no fluxo de trabalho de IA  
+- Fluxos de trabalho de conversação  
+- Pesquisa avançada (mensagens)  
+- Revisão de notas para relatórios CSAT  
+- Nova condição usando filtro de notas privadas  
+- Botão de status (Abertas e Pendentes)  
+- Novo discador do WAVOIP  
+- WAVOIP API oficial  
+- Nome do bot na sessão Typebot  
+- Conexão Quepasa com coexistência  
+- Novo canal para VoIP (Twilio Voice)  
+- Novo layout para as páginas de configurações  
+- Novas funções de IA OpenAI  
+- O Captain agora pode decidir quando encerrar as conversas  
+- Melhorias na Central de Ajuda, incluindo locais provisórios, reordenação de categorias e melhorias na busca  
+- Bots agentes agora podem ativar/desativar o status de digitação  
+- Gerenciamento de perguntas frequentes atualizado para Captain  
+- Navegação simplificada para Captain  
+- Ações em massa para contatos  
+- Possibilidade de adicionar nomes personalizados para webhooks  
+- Fluxo de autenticação SAML iniciado pelo SP  
+- Suporte para ferramentas personalizadas no Captain  
+- Canal de e-mail com suporte a respostas em formato de citação  
+- Interface para gerenciar domínios permitidos no widget do site  
+- Possibilidade de mencionar equipes em notas privadas  
+- Ativação de mensagens personalizadas em pesquisas CSAT  
+- Permitir exclusão de conversas  
+- Suporte para anexos de arquivos XML  
+
+---
+
+## 🚸 Ajustes e Alterações (Changed)
+
+- Melhoria na edição da Central de Ajuda com tabelas, comandos de barra e incorporações do GuideJar  
+- Automações e macros mais inteligentes para tarefas e notas privadas  
+- Correção de erro 404 no Assistente de IA  
+- Melhorias no Captain:
+  - Suporte a PDF para geração de FAQs  
+  - Pesquisa de perguntas frequentes  
+- Correções de bugs e melhorias de desempenho  
+- Opções de configuração CSAT aprimoradas  
+- Precisão ao nível de minuto para resolução automática de conversas  
+- Mensagens do bot agora exibem nome e avatar  
+- Anotações de contato visíveis na barra lateral da conversa  
+
+### Correções específicas
+
+- Correção para URL do Google OAuth  
+- Ajuste no campo de mensagem do agente  
+- Edição de informações do contato em linha  
+- Ajuste no `WAIT` do Typebot  
+- Ajuste de loop em campanhas da API Oficial  
+
+---
